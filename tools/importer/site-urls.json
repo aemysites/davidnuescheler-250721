@@ -1,0 +1,68 @@
+{
+  "originUrl": "https://www.nils-lars.com",
+  "lastCrawled": "https://www.nils-lars.com/",
+  "urls": [
+    {
+      "url": "https://nils-lars.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "3778e6996317e723265c2561a29a0b3a3e166f74"
+    },
+    {
+      "url": "https://nils-lars.com/impressum-%2F-kontakt",
+      "source": "SITEMAPS",
+      "targetPath": "/impressum/kontakt",
+      "id": "b704d0496dcca9013c5a94f3969139aed5242a47"
+    },
+    {
+      "url": "https://nils-lars.com/m/create",
+      "source": "SITEMAPS",
+      "targetPath": "/m/create",
+      "id": "9e8d491e10eb6f2b8031aba7adb221fd97d79320"
+    },
+    {
+      "url": "https://nils-lars.com/m/create-account",
+      "source": "SITEMAPS",
+      "targetPath": "/m/create-account",
+      "id": "b36b049d4f326edfb60baa9e944ef71837ba3871"
+    },
+    {
+      "url": "https://nils-lars.com/m/login",
+      "source": "SITEMAPS",
+      "targetPath": "/m/login",
+      "id": "217f63bad70f5930faf43c6bc69cef80ae49263f"
+    },
+    {
+      "url": "https://nils-lars.com/m/reset",
+      "source": "SITEMAPS",
+      "targetPath": "/m/reset",
+      "id": "00265ac3180ddfa2b6a547490834d4d56062bbbc"
+    },
+    {
+      "url": "https://nils-lars.com/nils-lars",
+      "source": "SITEMAPS",
+      "targetPath": "/nils-lars",
+      "id": "7c50cdda1bdf69250d0545f85c8f62b23ab669b5"
+    },
+    {
+      "url": "https://nils-lars.com/nils-lars/ola/services/breathwork-session-with-nils",
+      "source": "SITEMAPS",
+      "targetPath": "/nils-lars/ola/services/breathwork-session-with-nils",
+      "id": "f11370cd616f6807bfd4a26b25c58ba3e3f42b61"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
